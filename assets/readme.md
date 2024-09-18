@@ -38,7 +38,7 @@ Microcontroller:
 - [Building the ScottoAlp Handwired Mechanical Keyboard Part 1](https://www.youtube.com/watch?v=gVn9Gcfyt1Y)
 - [Building the ScottoAlp Handwired Mechanical Keyboard Part 2](https://www.youtube.com/watch?v=fNw5EELwTT0)
 
-Софт:
+Сервисы и софт:
 - [https://www.keyboard-layout-editor.com/](https://www.keyboard-layout-editor.com/)
 - [https://kbplate.ai03.com/](https://kbplate.ai03.com/)
 - [http://builder.swillkb.com/](http://builder.swillkb.com/)
