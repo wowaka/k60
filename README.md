@@ -1,5 +1,5 @@
 ### 60% ortholinear keyboard
 
-![](assets/layot.png)
+![](assets/layot-60.png)
 
 [Purple Qwl](https://github.com/SonalPinto/purple-owl)
