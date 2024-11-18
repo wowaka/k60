@@ -4,7 +4,7 @@
 
 Схема
 
-![](schematic_60.png)
+![](schematic-60.png)
 
 Диоды: 1N4148
 
